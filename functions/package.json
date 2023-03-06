@@ -9,5 +9,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@nhost/nhost-js": "^2.0.6",
+    "graphql": "^16.6.0"
+  }
 }
